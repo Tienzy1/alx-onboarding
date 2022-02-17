@@ -1,0 +1,16 @@
+
+This program accepts integers as input and calculates the sum of it's squares
+
+
+INPUT number as integer
+
+Declare the initial sum of numbers as 0
+
+BEGIN FOR LOOP
+
+for iteration bounds (i in range(1, num+1))
+    sum = sum+(i*i)
+
+END FOR
+
+OUTPUT the "Sum of squares"
